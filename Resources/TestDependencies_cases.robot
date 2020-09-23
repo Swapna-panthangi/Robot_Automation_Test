@@ -18,6 +18,8 @@ ${SelectCaseNumber}         xpath://a[contains(@title, '00002714')]
 ${ClickContactTracingtab}   xpath://li[contains(@title, 'Start Contact Tracing')]
 
 ${ClickFeedtab}             xpath://li[contains(@title, 'Feed')]
+${MiddlewindowScroll}       xpath://a[contains(@title, 'Sarah Smialowicz')]
+${MiddleWindow}             xpath://flexipage-component2[contains(@data-component-id, 'flexipage_tabset')
 
 ${ClickDetailstab}          xpath://li[contains(@title, 'Details')]
 ${NextButton}               xpath://button[@title='Next']
@@ -55,10 +57,17 @@ Start contact Tracing
    Sleep  4s
 #   Wait Until Page Contains Element   ${ClickFeedtab}         15s
    Click Element         ${ClickFeedtab}
+#   Scroll Element Into View   ${MiddleWindow}
+#   Mouse Down      ${MiddlewindowScroll}
+#   Execute Javascript    window.scrollTo(0,2000)
    Sleep  4s
 #   Wait Until Page Contains Element   ${ClickDetailstab}        15s
    Click Element        ${ClickDetailstab}
+#   Execute Javascript   ('${MiddlewindowScroll} window.scrollIntoView(0,200)')
    Sleep  4s
    Click Element         ${CloseCase}
+
+#Scroll Page To Location
+#    Execute Javascript    window.scrollTo(0,2000)
 
 

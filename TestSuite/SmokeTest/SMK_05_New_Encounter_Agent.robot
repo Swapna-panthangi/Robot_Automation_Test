@@ -16,7 +16,7 @@ ${RESOURCE_PATH}
 Given Agent Logs in
    Open Login page
    Maximize Browser Window
-
+     [tags]  SmokeTest
 When Click on New Household Member tab
 
   Dropdown Menu Selection

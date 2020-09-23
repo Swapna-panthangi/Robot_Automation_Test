@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f00f42c7-9c06-4bf7-80db-82ef491ad074" name="Default Changelist" comment="first upload">
+    <list default="true" id="f00f42c7-9c06-4bf7-80db-82ef491ad074" name="Default Changelist" comment=" Firefox resources file uploaded">
+      <change afterPath="$PROJECT_DIR$/Resources/AgentAccountLogin_FF.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/AgentLogin_FF.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/NHS_TnT_Application/SmokeTests/SMK_01_Login_firefox.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/NHS_TnT_Application/SmokeTests/SMK_03_Clinical_Assessment_Agent_FF.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/NHS_TnT_Application/SmokeTests/SMK_04_New_Household_Member_Agent_FF.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/NHS_TnT_Application/SmokeTests/SMK_05_New_Encounter_Agent_FF.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/TestDependencies_cases.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/TestDependencies_cases.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/SmokeResults/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/Results/SmokeResults/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/SmokeResults/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Results/SmokeResults/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/SmokeResults/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Results/SmokeResults/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/SmokeResults/selenium-screenshot-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/SmokeResults/selenium-screenshot-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/SmokeResults/selenium-screenshot-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/SmokeResults/selenium-screenshot-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/SmokeResults/selenium-screenshot-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/SmokeResults/selenium-screenshot-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/SmokeResults/selenium-screenshot-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/SmokeResults/selenium-screenshot-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSuite/SmokeTest/SMK_02_Contact_Tracing_Agent.robot" beforeDir="false" afterPath="$PROJECT_DIR$/TestSuite/SmokeTest/SMK_02_Contact_Tracing_Agent.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSuite/SmokeTest/SMK_03_Clinical_Assessment_Agent.robot" beforeDir="false" afterPath="$PROJECT_DIR$/TestSuite/SmokeTest/SMK_03_Clinical_Assessment_Agent.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSuite/SmokeTest/SMK_04_New_Household_Member_Agent.robot" beforeDir="false" afterPath="$PROJECT_DIR$/TestSuite/SmokeTest/SMK_04_New_Household_Member_Agent.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSuite/SmokeTest/SMK_05_New_Encounter_Agent.robot" beforeDir="false" afterPath="$PROJECT_DIR$/TestSuite/SmokeTest/SMK_05_New_Encounter_Agent.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/NHS_TnT_Application/SmokeTests/SMK_02_Contact_Tracing_Agent.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/NHS_TnT_Application/SmokeTests/SMK_02_Contact_Tracing_Agent.robot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +57,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/TestSuite/SmokeTest" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -52,12 +92,58 @@
       <option name="project" value="LOCAL" />
       <updated>1600437321804</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first upload">
+      <created>1600438646087</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600438646087</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first upload">
+      <created>1600438776477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600438776477</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" Firefox resources file uploaded">
+      <created>1600879450943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600879450944</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="first upload" />
+    <MESSAGE value="first upload1" />
+    <MESSAGE value=" Firefox resources file uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Firefox resources file uploaded" />
   </component>
   <component name="WindowStateProjectService">
     <state x="474" y="195" key="#Inspections" timestamp="1599056225107">
@@ -65,36 +151,56 @@
     </state>
     <state x="474" y="194" key="#Inspections/0.23.1680.972@0.23.1680.972" timestamp="1598900588913" />
     <state x="474" y="195" key="#Inspections/0.23.1680.975@0.23.1680.975" timestamp="1599056225107" />
+    <state x="542" y="327" key="#Notifications" timestamp="1600878139206">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="542" y="327" key="#Notifications/0.23.1680.976@0.23.1680.976" timestamp="1600878139206" />
     <state x="289" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600436551216">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state x="289" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.974@0.23.1680.974" timestamp="1600436551216" />
+    <state x="537" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600874967728">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="537" y="305" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.977@0.23.1680.977" timestamp="1600874967728" />
+    <state x="549" y="339" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1600540318685">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="549" y="339" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1680.976@0.23.1680.976" timestamp="1600540318685" />
     <state x="412" y="80" key="CommitChangelistDialog2" timestamp="1600434954822">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state x="412" y="80" key="CommitChangelistDialog2/0.23.1680.974@0.23.1680.974" timestamp="1600434954822" />
+    <state x="655" y="400" key="Github.ShareDialog" timestamp="1600696454182">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="655" y="400" key="Github.ShareDialog/0.23.1680.976@0.23.1680.976" timestamp="1600696454182" />
+    <state x="655" y="400" key="Github.ShareDialog/0.23.1680.977@0.23.1680.977" timestamp="1600676118447" />
     <state x="259" y="238" key="IDE.errors.dialog" timestamp="1600436469794">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state x="259" y="238" key="IDE.errors.dialog/0.23.1680.974@0.23.1680.974" timestamp="1600436469794" />
     <state x="259" y="238" key="IDE.errors.dialog/0.23.1680.976@0.23.1680.976" timestamp="1598973043878" />
-    <state x="349" y="148" key="SettingsEditor" timestamp="1599566414006">
-      <screen x="0" y="23" width="1680" height="977" />
+    <state x="0" y="23" width="1680" height="976" key="SettingsEditor" timestamp="1600866834261">
+      <screen x="0" y="23" width="1680" height="976" />
     </state>
     <state x="349" y="148" key="SettingsEditor/0.23.1680.972@0.23.1680.972" timestamp="1598948667953" />
     <state x="349" y="148" key="SettingsEditor/0.23.1680.974@0.23.1680.974" timestamp="1599061942411" />
     <state x="349" y="148" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1599087155426" />
-    <state x="343" y="97" key="SettingsEditor/0.23.1680.976@0.23.1680.976" timestamp="1598973902892" />
-    <state x="349" y="148" key="SettingsEditor/0.23.1680.977@0.23.1680.977" timestamp="1599566414006" />
-    <state x="425" y="236" key="Vcs.Push.Dialog.v2" timestamp="1600438133657">
-      <screen x="0" y="23" width="1680" height="975" />
+    <state x="0" y="23" width="1680" height="976" key="SettingsEditor/0.23.1680.976@0.23.1680.976" timestamp="1600866834261" />
+    <state x="349" y="148" key="SettingsEditor/0.23.1680.977@0.23.1680.977" timestamp="1600699704691" />
+    <state x="425" y="236" key="Vcs.Push.Dialog.v2" timestamp="1600879290403">
+      <screen x="0" y="23" width="1680" height="977" />
     </state>
     <state x="425" y="236" key="Vcs.Push.Dialog.v2/0.23.1680.974@0.23.1680.974" timestamp="1600437271791" />
     <state x="425" y="236" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1600438133657" />
-    <state x="627" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600436536403">
-      <screen x="0" y="23" width="1680" height="974" />
+    <state x="425" y="236" key="Vcs.Push.Dialog.v2/0.23.1680.976@0.23.1680.976" timestamp="1600878314818" />
+    <state x="425" y="236" key="Vcs.Push.Dialog.v2/0.23.1680.977@0.23.1680.977" timestamp="1600879290402" />
+    <state x="627" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600438805766">
+      <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="627" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.974@0.23.1680.974" timestamp="1600436536403" />
+    <state x="627" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.975@0.23.1680.975" timestamp="1600438805766" />
     <state x="580" y="244" width="598" height="735" key="find.popup" timestamp="1599780236106">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
